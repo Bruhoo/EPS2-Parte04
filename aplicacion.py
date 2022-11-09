@@ -1,4 +1,4 @@
-#ExamenParcial
+#ExamenParcialLP3
 import sqlite3
 from pathlib import Path
 #Cachay
